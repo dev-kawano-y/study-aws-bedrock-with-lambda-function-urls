@@ -1,0 +1,1 @@
+# study-aws-bedrock-with-lambda-function-urls
